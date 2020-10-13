@@ -27,7 +27,6 @@ brew 'youtube-dl'
 
 brew 'lean-cli'	
 
-cask 'alfred'
 cask 'alt-tab'
 cask 'bitwarden'
 cask 'borgbackup'
